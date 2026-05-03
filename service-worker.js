@@ -1,5 +1,5 @@
 const CACHE = 'paw-patrol-v1';
-const ASSETS = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json'];
+const ASSETS = ['/', '/index.html', '/style.css', '/app.js', '/manifest.json', '/bg.png'];
 
 self.addEventListener('install', event => {
   event.waitUntil(
