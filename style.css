@@ -11,7 +11,7 @@ html, body {
 body {
   font-family: system-ui, sans-serif;
   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
-  background: url('bg.png') center center / cover no-repeat fixed;
+  background: url('bg.jpg') center center / cover no-repeat fixed;
 }
 
 main {
